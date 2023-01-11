@@ -1,5 +1,5 @@
 # PROC39-1_4-plantilla-proyecto
 ## Plantilla del proyecto para la clase 39 nivel PRO 1:4.
 Modificación por parte del alumno de dos comentarios y cambio en la configuración de Firebase de la base de datos. Etapa 3.
-
+Como anteriormente dicho, no pude completar correctamente el reto numero dos de este proyecto, que fue darle color verde a la respuesta correcta y de color rojo a l incorrecta.
 ### Nombre en Inglés: project-template-my-quiz3
