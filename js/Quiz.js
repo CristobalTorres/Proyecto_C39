@@ -53,17 +53,18 @@ class Quiz {
         var correctAns="2";
         
         //reto1
-        if(allContestants !== correctAns){
-          fill("red");
-           
-        }
-        if(allContestants === correctAns){
+        if(correctAns === allContestants[plr].answer)
           fill("green");
           
-        }
-        textSize(20);
+        else
+          fill("red");
+
+        
         display_Answers+=30;
+        textSize(20);
         text(allContestants[plr].name + ": " + allContestants[plr].answer, 250,display_Answers) 
+        }
+        
         
         
         
@@ -75,4 +76,4 @@ class Quiz {
       }
     }
   }
-}
+
